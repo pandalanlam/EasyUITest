@@ -1,1 +1,12 @@
 /target
+/logs
+/screen_temp
+/screenshot
+/test-output
+/build
+.svn
+/bin
+.settings
+.idea
+.project
+.classpath
